@@ -181,7 +181,7 @@ export default function Home() {
           </div>
 
           <p className="text-[13px] leading-relaxed text-slate-600">
-            Full stack developer crafting digital products (ReactJs, Angular, JavaScript, NodeJs, .NET Core). Over 8 years of engineering experience creating impact across insurance, manufacturing, and consulting domains. Certified by Microsoft. Currently{" "}
+            Full stack developer crafting digital products (ReactJs, Angular, JavaScript, NodeJs, .NET Core). Over 9+ years of engineering experience (since Jul 2016) creating impact across insurance, manufacturing, and consulting domains. Certified by Microsoft. Currently{" "}
             <span className="text-slate-900 font-medium">Staff Software Engineer</span> at{" "}
             <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded border border-slate-200 bg-slate-50 text-slate-800 font-medium text-[12px]">
               <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
@@ -218,7 +218,7 @@ export default function Home() {
         {/* Metrics Row */}
         <div className="grid grid-cols-4 gap-4 pt-2 border-t border-slate-100">
           <div>
-            <div className="text-base font-semibold text-slate-900">8+</div>
+            <div className="text-base font-semibold text-slate-900">9+</div>
             <div className="text-[11px] text-slate-400">years exp (since 2016)</div>
           </div>
           <div>
@@ -394,6 +394,15 @@ export default function Home() {
               {copied ? "copied email!" : "email"}
             </button>
             , or find me on{" "}
+            <a
+              href="https://github.com/neha-singh-43"
+              target="_blank"
+              rel="noreferrer"
+              className="text-slate-900 underline underline-offset-4 hover:text-blue-600 transition-colors"
+            >
+              GitHub
+            </a>
+            {" "}and{" "}
             <a
               href="https://in.linkedin.com/in/neha-singh-670a99178"
               target="_blank"

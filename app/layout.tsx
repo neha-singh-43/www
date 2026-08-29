@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     template: "%s | Neha Singh",
   },
   description:
-    "Full stack developer crafting digital products with React.js, Angular, JavaScript, Node.js, .NET Core, and Azure. Staff Software Engineer at Diebold Nixdorf, creator of Cliner. Ex-Deloitte, Capgemini, Cognizant, Mindteck.",
+    "Full stack developer crafting digital products with React.js, Angular, JavaScript, Node.js, .NET Core, and Azure. 9+ years experience (since Jul 2016). Staff Software Engineer at Diebold Nixdorf, creator of Cliner. Ex-Deloitte, Capgemini, Cognizant, Mindteck.",
   keywords: [
     "Neha Singh",
     "Fullstack Developer",
@@ -99,7 +99,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     },
     sameAs: [
       "https://in.linkedin.com/in/neha-singh-670a99178",
-      "https://github.com",
+      "https://github.com/neha-singh-43",
     ],
     knowsAbout: [
       "Fullstack Development",

@@ -11,7 +11,7 @@
   - Senior Software Engineer at Mindteck (Jul 2016 – Oct 2019)
 - **Education:** Academy of Technology
 - **Location:** Kolkata, West Bengal, India
-- **Experience:** 8+ years (since 2016) in fullstack engineering across insurance, manufacturing, and consulting domains.
+- **Experience:** 9+ years (since Jul 2016) in fullstack engineering across insurance, manufacturing, and consulting domains.
 - **Certifications:**
   - Microsoft Certified: Azure Developer Associate (AZ-204)
   - Microsoft Certified: Azure Fundamentals (AZ-900)
@@ -19,5 +19,6 @@
 - **Primary Tech Stack:** React.js, Angular, JavaScript, Node.js, .NET Core, ASP.NET MVC, C#, Azure Cloud, Microservices, SQL Server.
 - **Featured Projects:**
   - **Cliner:** A blazing-fast, privacy-first native macOS app uninstaller and residual cleaner built with Rust & GPUI (Metal GPU acceleration), sub-150ms parallel scanning, macOS FSEvents integration, and Touch ID elevation.
+- **GitHub:** https://github.com/neha-singh-43
 - **LinkedIn:** https://in.linkedin.com/in/neha-singh-670a99178
 - **Email:** nehasinghrajput1993@gmail.com
